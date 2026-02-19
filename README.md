@@ -36,7 +36,7 @@ project/
 
 ```bash
 git clone https://github.com/Li-Hadys/Node-Pro.git
-cd Node-Pro-CLI
+cd Node-Pro
 
 ```
 
