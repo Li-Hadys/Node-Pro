@@ -35,7 +35,7 @@ project/
 本项目采用 Python 原生库实现，**零第三方依赖**，克隆即可运行：
 
 ```bash
-git clone [https://github.com/YourUsername/Node-Pro-CLI.git](https://github.com/YourUsername/Node-Pro-CLI.git)
+git clone https://github.com/Li-Hadys/Node-Pro.git
 cd Node-Pro-CLI
 
 ```
@@ -52,5 +52,4 @@ python main.py
 1. **导入节点**：选择菜单 `[1]`，批量粘贴你的落地节点原始链接（支持多行）。
 2. **配置规则**：在 `data/forward_rules.json` 中定义中转机的 IP、端口和目标 Tag。
 3. **生成链接**：运行生成功能，系统将自动匹配所有 Tag 并输出规范化的转发链接。
-
 
